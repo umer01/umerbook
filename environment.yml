@@ -11,6 +11,7 @@ dependencies:
   - six
   - sqlalchemy
   - nose
+  - h5py
   - pip:
     - numpy
     - scipy
